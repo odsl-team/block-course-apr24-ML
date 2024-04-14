@@ -9,4 +9,4 @@
 
 **Open in colab:**
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhartman94/TTT-Normalizing-Flows/blob/main/)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/odsl-team/block-course-apr24-ML/blob/main/)
