@@ -7,3 +7,6 @@
 **Course indico:** https://indico.ph.tum.de/event/7606/
 
 
+**Open in colab:**
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhartman94/TTT-Normalizing-Flows/blob/main/)
