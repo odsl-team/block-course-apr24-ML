@@ -29,9 +29,15 @@ Starter code for the hands-on portion.
 **Session 5:** Tips and Tricks for training NNs
 - `Going-Deeper.ipynb`
 
-**Lectures:** 
-Some notebooks that generated some of the example plots for the class.
+**Session 6:** Unsupervised Learning
+- `PCA.ipynb`
 
-- Classification:
-- SGD and Momentum optimizer:
-- K-means:
+## Teaching-nbs:
+
+Some notebooks that generated a few of the example plots for the class lectures.
+
+- Bias vasriance trade off: `Linear-fits.ipynb`
+- Classification: `Sigmoid.ipynb`
+- SGD and Momentum optimizer: ``
+- K-means: `Unsupervised-Learning.ipynb`
+- PCA motivating examples: `PCA-1d.ipynb`
